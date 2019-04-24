@@ -1,0 +1,53 @@
+ul {
+  list-style-type: square;
+}
+
+body {
+  background-color: #b1b1b1;
+}
+
+#responsive{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.nav{
+  background-color: #ff7f0f;
+}
+
+.good{
+  width: 100%;
+  padding: 5px;
+}
+
+.capt{
+  text-align: center;
+  border: 1px solid #e57373;
+  line-height: 1.6;
+  border-radius: 15px;
+}
+
+#confusing{
+  font-family: 'Dokdo', cursive;;
+  font-size: 20px;
+}
+
+#cluttered{
+  font-family: 'Press Start 2P', cursive;
+}
+
+#uglyColors{
+  color: #68E70A;
+}
+
+h5{
+  text-align: center
+}
+#tiny{
+  font-size: xx-small;
+  text-align: center;
+}
+.margin{
+  margin-left: 30px;
+}
+
